@@ -1,4 +1,4 @@
 # The-odin-project
-everything in this repository belongs to "The odin project" course.
+everything in this repository is part of the fullstack developer journey!!
 
 "Hello Odin"
